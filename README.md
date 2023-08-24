@@ -8,5 +8,6 @@ Built packages for normfluodbf.
 - Download the package to a folder of choice and try to ensure the pwd == location of the source file
 - library(remotes)
 - install_local("normfluodbf_1.0.tar.gz")
+- Recent update is 1.4.1 so use that instead.
 - this should do the trick, CHEERS! ENJOY!
 
